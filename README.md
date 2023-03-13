@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohd Danish. A Full stack developer.
+- 👋 Hi, I’m Mohd Danish. A Full stack .net developer.
 
 -  You can reach by email mohd.danish.dev@outlook.com
 
